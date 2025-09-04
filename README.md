@@ -2,10 +2,10 @@
 
 
 ### 🗿 À propos de moi 🗿
-Je suis **Paul Godek**, étudiant en deuxième année de BUT Informatique à l'IUT de Montpellier. Fan de jeux vidéo depuis le plus jeune âge, j'aspire à en créer moi même pour partager cette passion au reste du monde. 
+Je suis **Paul Godek**, étudiant en troisième année de BUT Informatique à l'IUT du Puy-en-Velay. Fan de jeux vidéo depuis le plus jeune âge, j'aspire à en créer moi même pour partager cette passion au reste du monde. 
 
 ### 📝 Ma Formation 📝
-Après avoir obtenu mon BAC spécialité Mathématiques et NSI avec mention très bien, j'ai rejoint l'IUT de Montpellier pour faire un BUT Informatique qui durera 3 ans. 
+Après avoir obtenu mon BAC spécialité Mathématiques et NSI avec mention très bien, j'ai rejoint l'IUT de Montpellier pour faire un BUT Informatique qui durera trois ans. Seulement, après ma deuxième année, j'ai choisi d'être transféré à l'IUT du Puy-en-Velay, car le parcours là-bas m'intéressait plus que celui que je suivais à l'IUT de Montpellier (plus centré graphique/3D que web). Je suis donc à l'IUT du Puy pour ma troisième année !
 
 ### 👥 Compétences sociales 👥
 Je suis naturellement quelqu'un de sociable et très à l'aise dans les travaux d'équipe. Je mets un point d'honneur sur la communication entre coéquipiers, il s'agit de la compétence sociale la plus importante à mes yeux. Je suis aussi très autonome, et ma curiosité me permet d'apprendre et de comprendre rapidement et efficacement tout ce dont j'ai besoin dans mes différentes tâches.
