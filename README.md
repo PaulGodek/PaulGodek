@@ -106,6 +106,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=PaulGodek&theme=darkhub&column=4&row=1&margin-w=17&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  [![trophy](https://github-profile-trophy.vercel.app?username=PaulGodek&theme=darkhub&column=4&row=1&margin-w=17&margin-h=10&no-bg=true&no-frame=true&order=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ###
