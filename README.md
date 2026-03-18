@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">> 🥐 French programmer learning GameDev on my free time<br>> 👾 Insanely passionnate about gaming and Virtual Reality<br>> 🫙 Currently trying to do many different Game Jams (Wanna work with me ? <a href="mailto:paul.godek.pro@gmail.com">Reach out</a> 👀)<br>> ❤️ I love C# and Java. <br>> 🌱 Outside of programming, I'm into competitive games (Overwatch and Smash mostly), Volley-ball, and hanging out with friends</p>
+<p align="left">> 🥐 French programmer learning GameDev on my free time<br>> 👾 Insanely passionnate about gaming and Virtual Reality<br>> 🫙 Currently trying to do as many different Game Jams as possible (Wanna work with me ? <a href="mailto:paul.godek.pro@gmail.com">Reach out</a> 👀)<br>> ❤️ I love C# and Java.<br>> 🌱 Outside of programming, I'm into competitive games (Overwatch and Smash mostly), Volley-ball, and hanging out with friends</p>
 
 ###
 
