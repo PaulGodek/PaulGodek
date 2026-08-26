@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🔧 Languages and Tools (ordered by preference and mastery)</h3>
+<h3 align="left">🔧 Languages and Tools</h3>
 
 ###
 
