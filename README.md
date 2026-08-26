@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="left">💻 Projects I've made or participated in</h3>
+<h3 align="left">💻 My Projects</h3>
 
 ###
 
